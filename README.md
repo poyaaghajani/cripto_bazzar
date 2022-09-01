@@ -1,6 +1,7 @@
 # api
 
-A new Flutter project.
+this is a Crypto Bazzar project
+in this project you can watch online Cryptocurrencys....
 
 ## Getting Started
 
