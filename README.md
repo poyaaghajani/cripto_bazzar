@@ -1,16 +1,8 @@
 # api
 
-A new Flutter project.
+this is a Crypto Bazzar project
+in this project you can watch online Cryptocurrencys....
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1662196356](https://user-images.githubusercontent.com/107408431/188264088-3d85ad66-1a38-4ab8-9acd-f740da567a46.png)
+![Screenshot_1662196334](https://user-images.githubusercontent.com/107408431/188264165-27c8c9f7-539e-4a6f-a665-793530311f24.png)
+![Screenshot_1662196344](https://user-images.githubusercontent.com/107408431/188264200-424797b1-5d4d-4ad0-9714-5cf4c82606d5.png)
