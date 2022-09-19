@@ -104,7 +104,7 @@ class _CoinListScreenState extends State<CoinListScreen> {
             fontSize: 16, fontWeight: FontWeight.bold, color: greyColor),
       ),
       leading: SizedBox(
-        width: 30,
+        width: 35,
         child: Center(
           child: Text(
             crypto.rank.toString(),
